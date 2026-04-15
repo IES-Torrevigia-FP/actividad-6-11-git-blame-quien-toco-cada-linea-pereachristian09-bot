@@ -1,0 +1,15 @@
+9883e09d (Christian Perea Ferrández 2026-04-15 08:34:36 +0200  1) function sumar(a, b) {
+9883e09d (Christian Perea Ferrández 2026-04-15 08:34:36 +0200  2)   return a + b;
+9883e09d (Christian Perea Ferrández 2026-04-15 08:34:36 +0200  3) }
+9883e09d (Christian Perea Ferrández 2026-04-15 08:34:36 +0200  4) 
+9883e09d (Christian Perea Ferrández 2026-04-15 08:34:36 +0200  5) function restar(a, b) {
+9d805ff2 (Christian Perea Ferrández 2026-04-15 08:36:13 +0200  6)   return a - b - 1; // BUG intencionado
+9883e09d (Christian Perea Ferrández 2026-04-15 08:34:36 +0200  7) }
+9883e09d (Christian Perea Ferrández 2026-04-15 08:34:36 +0200  8) 
+1f26844f (Christian Perea Ferrández 2026-04-15 08:35:06 +0200  9) function multiplicar(a, b) {
+1f26844f (Christian Perea Ferrández 2026-04-15 08:35:06 +0200 10)   return a * b;
+1f26844f (Christian Perea Ferrández 2026-04-15 08:35:06 +0200 11) }
+e6b6d555 (Christian Perea Ferrández 2026-04-15 08:36:50 +0200 12) 
+e6b6d555 (Christian Perea Ferrández 2026-04-15 08:36:50 +0200 13) // TODO: añadir función dividir
+
+me esta dando el nombre del autor fecha, hora,minutos, segundos  en la cual se creo y linea en donde se encuentra cada palabra o numero 
